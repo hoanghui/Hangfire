@@ -42,7 +42,10 @@ namespace TestHangfire
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IBackgroundJobClient backgroundJobs, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, 
+            IBackgroundJobClient backgroundJobs, 
+            IWebHostEnvironment env,
+            IRecurringJobManager recurringJobManager)
         {
             if (env.IsDevelopment())
             {
@@ -61,6 +64,11 @@ namespace TestHangfire
             //
             app.UseHangfireDashboard();
             backgroundJobs.Enqueue(() => Console.WriteLine("Hello world from Hangfire!"));
+            recurringJobManager.AddOrUpdate(
+                "Run every minute",
+                () => Console.WriteLine("Test thoi nha"),
+                "* * * * *"
+                );
 
             app.UseRouting();
 

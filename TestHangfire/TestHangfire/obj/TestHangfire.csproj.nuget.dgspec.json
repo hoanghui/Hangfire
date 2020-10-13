@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OhMyHotel\\working\\VS2019\\TestHangfire\\TestHangfire\\TestHangfire.csproj": {}
+    "D:\\OhMyHotel\\working\\VS2019\\Hangfire\\TestHangfire\\TestHangfire\\TestHangfire.csproj": {}
   },
   "projects": {
-    "D:\\OhMyHotel\\working\\VS2019\\TestHangfire\\TestHangfire\\TestHangfire.csproj": {
+    "D:\\OhMyHotel\\working\\VS2019\\Hangfire\\TestHangfire\\TestHangfire\\TestHangfire.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OhMyHotel\\working\\VS2019\\TestHangfire\\TestHangfire\\TestHangfire.csproj",
+        "projectUniqueName": "D:\\OhMyHotel\\working\\VS2019\\Hangfire\\TestHangfire\\TestHangfire\\TestHangfire.csproj",
         "projectName": "TestHangfire",
-        "projectPath": "D:\\OhMyHotel\\working\\VS2019\\TestHangfire\\TestHangfire\\TestHangfire.csproj",
+        "projectPath": "D:\\OhMyHotel\\working\\VS2019\\Hangfire\\TestHangfire\\TestHangfire\\TestHangfire.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\OhMyHotel\\working\\VS2019\\TestHangfire\\TestHangfire\\obj\\",
+        "outputPath": "D:\\OhMyHotel\\working\\VS2019\\Hangfire\\TestHangfire\\TestHangfire\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

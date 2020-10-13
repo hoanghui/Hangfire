@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xt1CjPRdve8SCZxEMP8X2/+hu7Vl9GyLHhQ2LGLL9xnFj6pOGjTcjNFCJv+TU9WzIyqinz1eMrNrUIQSVC40Ig==",
+  "dgSpecHash": "xwduAZ3g3QbCa8IvdIj1Fub+g+m8jpTEt90cm79obvIZb3gp5sB4WPUn04EUm0qDn3BkFiBbIkrfy0H+JdNc0g==",
   "success": true,
-  "projectFilePath": "D:\\OhMyHotel\\working\\VS2019\\TestHangfire\\TestHangfire\\TestHangfire.csproj",
+  "projectFilePath": "D:\\OhMyHotel\\working\\VS2019\\Hangfire\\TestHangfire\\TestHangfire\\TestHangfire.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\hangfire.aspnetcore\\1.7.15\\hangfire.aspnetcore.1.7.15.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\hangfire.core\\1.7.15\\hangfire.core.1.7.15.nupkg.sha512",
